@@ -1,0 +1,17 @@
+body{
+    background: grey;
+}
+.Mypicture{
+        width: 350px;       
+}
+.Box{
+    margin-bottom: 5em;
+    margin-top: 5em;
+    margin-left: 15em;
+    margin-right: 15em;
+    text-align: center;
+    align-items: center; 
+    border: 1px;
+    padding: 10;
+    background: black;
+}
